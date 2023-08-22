@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@csstools/normalize.css": "github:csstools/normalize.css",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@mui/icons-material": "^5.6.1",
@@ -14,7 +15,8 @@
     "react-horizontal-scrolling-menu": "^2.7.1",
     "react-loader-spinner": "^5.3.4",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "sanitize.css": "^13.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
